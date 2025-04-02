@@ -1,4 +1,4 @@
-app = "randevu-avcisi-serkan"
+app = "randevu-avcisi"
 primary_region = "ams"
 
 [build]
