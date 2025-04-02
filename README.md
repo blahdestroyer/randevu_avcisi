@@ -1,1 +1,1 @@
-# randevu_avcisi
+# Randevu Avcısı (MVP)
