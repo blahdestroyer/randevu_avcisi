@@ -1,1 +1,0 @@
-# Randevu Avcısı (MVP)
