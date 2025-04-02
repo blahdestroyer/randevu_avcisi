@@ -1,1 +1,5 @@
 app = "randevu-avcisi-serkan"
+primary_region = "ams"
+
+[build]
+  dockerfile = "Dockerfile"
